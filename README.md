@@ -9,7 +9,7 @@ Welcome to the `Jian-Stephen Simple Shell` project! This program is a simple she
 
 ### Background
 -----
-The `Jian-Stephen Simple Shell` project is a major team project conducted by Jian Huang and Stephen Chu, students at Holberton School, for educational purposes. It consists of developing and makng our own clone of `DASH` - Debian Almquist shell found in several versions of Ubuntu Linux. Though cloning of `DASH` was the general guidance, having the same exact functionalities and features was not the goal. The goal for us was to learn and develop various team and individual skills regarding coding and git.
+The `Jian-Stephen Simple Shell` project is a major team project conducted by Jian Huang and Stephen Chu for educational purposes. It consists of developing and makng our own clone of `DASH` - Debian Almquist shell found in several versions of Ubuntu Linux. Though cloning of `DASH` was the general guidance, having the same exact functionalities and features was not the goal. The goal for us was to learn and develop various team and individual skills regarding coding and git.
 
 ### Quick Start
 -----
